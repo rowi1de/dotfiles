@@ -1,6 +1,6 @@
 # My Dotfiles 🛠️
 
-Welcome to my dotfiles! AI Wrote this so don't judge me, judge the robot
+Welcome to my dotfiles! [@ricfort](https://github.com/ricfort) Wrote this so don't ~~judge~~ thank me, ~~judge~~ thank the [@ricfort](https://github.com/ricfort)
 
 ## Window Manager: [yabai](https://github.com/koekeishiya/yabai)
 
